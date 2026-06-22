@@ -22,6 +22,7 @@ A dynamic Power BI dashboard built to track year-over-year sales performance and
 
 ## 🖼️ Screenshots
  ![image alt](https://github.com/aathin2001/Sales-Dashboard/blob/700c3151f8a04addac04d70bae9cf2d2fafbc6bf/screen_shots/sales_dashboard_pic1.png) 
+ ![image alt](https://github.com/aathin2001/Sales-Dashboard/blob/ce760e2db2a9d30a78175e36d177a78d6afd53b2/screen_shots/sales_dashboard_pic2.png)
  
 
 ## 💡 Key Insight
