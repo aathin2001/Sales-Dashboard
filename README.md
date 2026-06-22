@@ -21,7 +21,7 @@ A dynamic Power BI dashboard built to track year-over-year sales performance and
 - **MySQL** — source data
 
 ## 🖼️ Screenshots
-See [`/screenshots`](./screenshots) folder for dashboard views.
+See ![Sales-Dashboard](./screenshots/image-1.png) folder for dashboard views.
 
 ## 💡 Key Insight
 Profit grew faster than total sales year-over-year, indicating improved margins rather than just higher sales volume.
